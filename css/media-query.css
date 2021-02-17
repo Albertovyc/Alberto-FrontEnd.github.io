@@ -1,0 +1,279 @@
+/* Media query*/
+@media screen and (max-width: 1161px){
+
+    .container-habilidades-principal h1{
+    font-family: 'roboto';
+    padding-left: 340px;
+    padding-top: 120px;
+    font-size: 60px;
+    }
+
+
+    .container-habilidades-logo .img-habilidades .segunda-parte img {
+        padding: 70px;
+    }
+
+
+
+    
+    .h1-protafolio h1 {
+        padding-top: 200px;
+        padding-left: 350px;
+        font-family: 'roboto';
+        font-size: 60px;
+    }
+
+    .contacto-form .css .h4 {
+        text-align: center;
+        font-size: 60px;
+        margin-top: 80px;
+        margin-bottom: 100px;
+        font-family: 'roboto';
+    }
+    
+  }
+  @media screen and (max-width: 987px){
+    .container h2 {
+        color: white;
+        font-size: 64px;
+        margin-top: 90px;
+        font-family: 'roboto';
+    }
+    .container img {
+        display: flex;
+        padding-left: 133px;
+        margin-top: 40px;
+    }
+    .demi-container .col-sm .demi-2 #parte1 {
+        color: black;
+         margin-left: 80px;
+         font-size: 30px;
+        font-family: 'aton';
+    }
+    element.style {
+        margin: 10px;
+        padding-top: 80px;
+    }
+
+  }
+@media screen and (max-width: 865px){
+    element.style {
+        margin: 10px;
+        padding-top: 20px;
+    }
+}
+@media screen and (max-width: 607px){
+    .fondo {
+        background: url(../img/Portafolio.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+       
+    }
+    .container h2 {
+    color: black;
+    font-size: 22px;
+    margin-top: 120px;
+    font-family: 'roboto';
+}
+.container p {
+    font-size: 18px;
+    color: white;
+    text-shadow: 2px 2px 2px #0a0e27;
+}
+.container-habilidades-principal h1 {
+    font-family: 'roboto';
+    padding-left: 230px;
+    padding-top: 120px;
+    font-size: 60px;
+}
+
+.container-habilidades-logo .img-habilidades img {
+    padding: 8px;
+}
+
+.container-habilidades-logo .img-habilidades .segunda-parte img {
+    padding: 10px;
+}
+.h1-protafolio h1 {
+    padding-top: 200px;
+    padding-left: 180px;
+    font-family: 'roboto';
+    font-size: 60px;
+}
+h1 {
+    font-size: 19px;
+    padding: 15px;
+  
+}
+
+}
+@media screen and (max-width: 515px){
+  
+    
+    .container img {
+        display: flex;
+        
+    }
+
+    .container-habilidades-principal h1 {
+        font-family: 'roboto';
+        padding-left: 20px;
+        padding-top: 35px;
+        font-size: 60px;
+    }
+    
+    .container-habilidades-logo .img-habilidades img {
+        padding: 0px; 
+    }
+    .container-habilidades {
+        margin-top: 30px;
+        text-align: center;
+        display: flex;
+        justify-content: space-between;
+        margin: 0px auto;
+        width: 85%;
+        font-family: 'aton';
+    }
+    .container-habilidades-logo .img-habilidades .segunda-parte img {
+        padding: 0px;
+    }
+    .h1-protafolio h1 {
+        padding-top: 200px;
+        padding-left: 79px;
+        font-family: 'roboto';
+        font-size: 60px;
+    }
+}
+@media screen and (max-width: 401px){
+    .container img {
+        /* display: flex; */
+        /* padding-left: 133px; */
+        /* margin-top: 40px; */
+        width: 200px;
+        height: 200px;
+    }
+    .container h2 {
+        color: black;
+        font-size: 32px;
+        margin-top: 120px;
+        font-family: 'roboto';
+    }
+    
+
+.container p {
+    font-size: 33px;
+    color: white;
+    text-shadow: 2px 2px 2px #0a0e27;
+}
+.container .imagen-left img {
+    display: flex;
+    padding-left: 13px;
+    padding-top: 40px;
+    width: 400px;
+    height: 300px;
+}
+#parte1 {
+    color: black;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'aton';
+}
+.container-habilidades-logo .img-habilidades img {
+    animation: ilustrationAnimate ease-in 1s infinite alternate;
+    width: 80px;
+}
+.container-habilidades-logo .img-habilidades .segunda-parte img {
+    margin: 20px;
+    padding: 0px;
+}
+}
+@media screen and (max-width: 387px){
+    .container img {
+        display: flex;
+        padding-left: 30px;
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width: 401px){
+    .container img {
+        display: flex;
+        padding-left: 33px;
+        margin-top: 20px;
+    }
+    #Footer {
+        margin-top: 10;
+    }
+}
+@media screen and (max-width: 361px){
+    .container img {
+        display: flex;
+        padding-left: 30px;
+        margin-top: 20px;
+    }
+    footer {
+        margin-top: 250px;
+        background: black;
+        padding: 60px 0px 15px 0px;
+        text-align: center;
+        font-size: 15px;
+        width: 400px;
+    }
+}
+@media screen and (max-width: 320px){
+    .container h2 {
+        color: black;
+        font-size: 22px;
+        margin-top: 100px;
+        font-family: 'roboto';
+    }
+    .container p {
+        font-size: 23px;
+        color: white;
+        text-shadow: 2px 2px 2px #0a0e27;
+    }
+    .container img {
+        display: flex;
+        padding-left: 30px;
+        margin-top: 20px;
+        width: 280px;
+        height: 200px;
+    }
+    .demi-container .col-sm .demi-2 #parte1 {
+        color: black;
+        margin-left: 0px;
+        font-size: 30px;
+        font-family: 'aton';
+    }
+    .container-habilidades-logo .img-habilidades img {
+        animation: ilustrationAnimate ease-in 1s infinite alternate;
+        width: 80px;
+        padding-left: 20px;
+    }
+    .container-habilidades-logo .img-habilidades .segunda-parte img {
+        margin: 8px;
+        padding-left: 10px;
+    }
+    .h1-protafolio h1 {
+        padding-top: 100px;
+        padding-left: 79px;
+        font-family: 'roboto';
+        font-size: 60px;
+    }
+    element.style {
+        margin: 10px;
+        padding-top: 70px;
+    }
+    footer {
+        margin-top: 250px;
+        background: black;
+        padding: 60px 0px 15px 20px;
+        text-align: center;
+        font-size: 15px;
+        width: 400px;
+    }
+    footer img {
+        padding: 1;
+        /* text-align: center; */
+        width: 25px;
+    }
+}
